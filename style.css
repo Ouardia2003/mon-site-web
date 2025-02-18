@@ -9,7 +9,7 @@ body {
 
 /* En-tête */
 header {
-    background-color: #004080;
+    background-color: #570e4d;
     color: white;
     padding: 5px;
     text-align: center;
@@ -26,7 +26,7 @@ header img {
 }
 
 nav {
-    background: #0055aa;
+    background: #902b82;
     text-align: center;
     padding: 10px;
 }
@@ -51,7 +51,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #003366;
+    background-color: #570e4d;
     border-radius: 5px;
 }
 /* Style du menu latéral ultra-compact */
@@ -119,8 +119,7 @@ main {
 }
 
 h2 {
-    color: #004080;
-    border-bottom: 3px solid #004080;
+    color: #570e4d;
     padding-bottom: 5px;
 }
 
@@ -188,7 +187,7 @@ table, th, td {
 }
 
 th {
-    background-color: #004080;
+    background-color: #570e4d;
     color: white;
 }
 
@@ -215,7 +214,7 @@ figcaption {
 /* Pied de page */
 footer {
     text-align: center;
-    background: #004080;
+    background: #570e4d;
     color: white;
     padding: 15px;
     margin-top: 20px;
